@@ -36,6 +36,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.btnBuscarCep.setOnClickListener {
 
+
             val cepDigitado = binding.etCep.text.toString()
 
             if (cepDigitado.isEmpty()) {
