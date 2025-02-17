@@ -4,6 +4,8 @@
     <string name="cep">Cep</string>
     <string name="logradouro">Logradouro</string>
     <string name="bairro">Bairro</string>
+    <string name="regiao">Região</string>
     <string name="cidade">Cidade</string>
     <string name="estado">Estado</string>
+    <string name="ddd">DDD</string>
 </resources>
